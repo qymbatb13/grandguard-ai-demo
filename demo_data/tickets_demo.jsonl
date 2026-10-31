@@ -1,0 +1,3 @@
+{"ticket_id":"demo-1","kind":"complaint","reporter_hash":"synthetic-1","messages":[{"role":"player","text":"Arman_Petrov оскорблял меня и семью в чате, скрины есть","attachments":2}]}
+{"ticket_id":"demo-2","kind":"report","reporter_hash":"synthetic-2","messages":[{"role":"player","text":"Мен текстурада қысылып қалдым, көмек беріңізші"}]}
+{"ticket_id":"demo-3","kind":"report","reporter_hash":"synthetic-3","messages":[{"role":"player","text":"Мой аккаунт взломали, помогите"}]}

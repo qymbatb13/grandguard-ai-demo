@@ -1,0 +1,60 @@
+{
+  "categories": [
+    {
+      "code": "complaint.insult",
+      "rules": [
+        "2.1"
+      ]
+    },
+    {
+      "code": "complaint.cheat",
+      "rules": [
+        "3.2"
+      ]
+    },
+    {
+      "code": "complaint.scam",
+      "rules": [
+        "4.1"
+      ]
+    },
+    {
+      "code": "complaint.other",
+      "rules": []
+    },
+    {
+      "code": "report.help",
+      "rules": []
+    },
+    {
+      "code": "report.account",
+      "rules": []
+    },
+    {
+      "code": "report.payment",
+      "rules": []
+    },
+    {
+      "code": "report.offtopic",
+      "rules": []
+    },
+    {
+      "code": "report.question",
+      "rules": []
+    }
+  ],
+  "priorities": [
+    {
+      "code": "p0"
+    },
+    {
+      "code": "p1"
+    },
+    {
+      "code": "p2"
+    },
+    {
+      "code": "p3"
+    }
+  ]
+}

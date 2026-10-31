@@ -1,0 +1,1 @@
+"""GrandGuard AI support copilot."""
